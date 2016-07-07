@@ -8,7 +8,7 @@ Amazon EC2 is the most famous AWS service and allows to launch different types o
 
 https://www.youtube.com/watch?v=Ldezibc0k48
 
-**Create your first Amazon EC2 instance (Winodows)**
+**Create your first Amazon EC2 instance (Windows)**
 
 Amazon EC2 is the most famous AWS service and allows to launch different types of cloud instances and pay for them with a pay-per-use approach. With Amazon EC2 it is possible to create new servers in a few minutes and use different images (AMI) to personalize them. AWS provides several Microsoft Windows Server AMIs that enables to run any compatible Windows-based solution. Users can use Windows-based applications, websites, and web-services written in .NET, for data processing, media trans-coding, and any other task requiring Windows software.
 
